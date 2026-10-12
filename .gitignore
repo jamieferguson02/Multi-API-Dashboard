@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Secrets (none yet, but in case you add any)
+.env
+
+# OS files
+Thumbs.db
+.DS_Store
